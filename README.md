@@ -1,6 +1,5 @@
 # edmonds_karp_algorithm
 Implementation of Edmonds-Karp Algorithm
-<h1>Edmonds-Karp Algorithm</h1>
 
 ---
 
